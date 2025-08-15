@@ -7,11 +7,11 @@ It supports text files, Word documents, PDFs, and images using OCR (Tesseract). 
 
 **Features**<br>
 
-	•	📂 Supports .txt, .docx, .pdf, and image formats (.png, .jpg, .jpeg)<br>
-	•	🔍 Text preprocessing (tokenization, stopword removal, normalization)<br>
-	•	🖼 OCR integration with Tesseract for extracting text from images<br>
-	•	📊 Cosine Similarity to calculate plagiarism percentage<br>
-	•	🖥 Simple file selection using Tkinter<br><br>
+	•	Supports .txt, .docx, .pdf, and image formats (.png, .jpg, .jpeg) <br>
+	•	Text preprocessing (tokenization, stopword removal, normalization) <br>
+	•	OCR integration with Tesseract for extracting text from images <br>
+	•	Cosine Similarity to calculate plagiarism percentage <br>
+	•	Simple file selection using Tkinter <br><br>
 
 
 **Usage**<br>
@@ -19,9 +19,9 @@ It supports text files, Word documents, PDFs, and images using OCR (Tesseract). 
 Run the script:
   *python plagiarism_detection.py*
 
-  1.	Select the first document (original).
-	2.	Select the second document (to check for plagiarism).
-	3.	View the plagiarism percentage in the terminal.<br><br>
+  1.	Select the first document (original). <br>
+  2.	Select the second document (to check for plagiarism). <br>
+  3.	View the plagiarism percentage in the terminal. <br><br>
 
 
 **Requirements**<br>
