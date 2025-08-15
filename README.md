@@ -7,11 +7,11 @@ It supports text files, Word documents, PDFs, and images using OCR (Tesseract). 
 
 **Features**<br>
 
-	•	Supports .txt, .docx, .pdf, and image formats (.png, .jpg, .jpeg) <br>
-	•	Text preprocessing (tokenization, stopword removal, normalization) <br>
-	•	OCR integration with Tesseract for extracting text from images <br>
-	•	Cosine Similarity to calculate plagiarism percentage <br>
-	•	Simple file selection using Tkinter <br><br>
+•	Supports .txt, .docx, .pdf, and image formats (.png, .jpg, .jpeg) <br>
+•	Text preprocessing (tokenization, stopword removal, normalization) <br>
+•	OCR integration with Tesseract for extracting text from images <br>
+•	Cosine Similarity to calculate plagiarism percentage <br>
+•	Simple file selection using Tkinter <br><br>
 
 
 **Usage**<br>
