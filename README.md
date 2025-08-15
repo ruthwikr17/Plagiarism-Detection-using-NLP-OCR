@@ -3,7 +3,7 @@
 This project detects text similarity between two documents to identify potential plagiarism.
 It supports text files, Word documents, PDFs, and images using OCR (Tesseract).  <br><br>
 
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 **Features**<br>
 
